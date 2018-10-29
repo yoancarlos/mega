@@ -1,0 +1,1406 @@
+Application ID,Application Code,Name,Assigned Person,Business Role,Login,E-mail
+010205DE5ACF61CC,AID393,Access Control ID Card,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+010205DE5ACF61CC,AID393,Access Control ID Card,Product-Corporate Systems,Product Line,,592D661C5797326A
+02021848574C0AA7,AID254,Settlement Price Calculation,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+02021848574C0AA7,AID254,Settlement Price Calculation,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+02021848574C0AA7,AID254,Settlement Price Calculation,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+02021848574C0AA7,AID254,Settlement Price Calculation,Product-Risk,Product Line,,592D666E579733EA
+02021848574C0AA7,AID254,Settlement Price Calculation,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+02021848574C0AA7,AID254,Settlement Price Calculation,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+57045B0F5AF11E9A,AID421,FACT,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+57045B0F5AF11E9A,AID421,FACT,Product-Corporate Systems,Product Line,,592D661C5797326A
+570465185AF126B2,AID426,Diligent Board Books,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+570465185AF126B2,AID426,Diligent Board Books,Thomas Hannappel,Business Owner,,thomas.hannappel@deutsche-boerse.com
+570465185AF126B2,AID426,Diligent Board Books,Jan Alexander Malysch,Business Owner,,jan.malysch@deutsche-boerse.com
+570465185AF126B2,AID426,Diligent Board Books,Product-Corporate Systems,Product Line,,592D661C5797326A
+5704C2235AF12989,AID427,Corporate Systems Infrastructure Operations,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+5704C2235AF12989,AID427,Corporate Systems Infrastructure Operations,Product-Corporate Systems,Product Line,,592D661C5797326A
+57045D2E5AF12213,AID423,COMFLEET,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+57045D2E5AF12213,AID423,COMFLEET,Product-Corporate Systems,Product Line,,592D661C5797326A
+570461375AF12535,AID425,BluePrism Corporate Tools,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+570461375AF12535,AID425,BluePrism Corporate Tools,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+570461375AF12535,AID425,BluePrism Corporate Tools,Product-Corporate Systems,Product Line,,592D661C5797326A
+5704596C5AF11C71,AID420,Multicash,Florian Rodeit,Business Owner,,florian.rodeit@deutsche-boerse.com
+5704596C5AF11C71,AID420,Multicash,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+5704596C5AF11C71,AID420,Multicash,Product-Corporate Systems,Product Line,,592D661C5797326A
+5704C2B05AF12B21,AID428,Corporate Tools Misc,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+5704C2B05AF12B21,AID428,Corporate Tools Misc,Product-Corporate Systems,Product Line,,592D661C5797326A
+57045FC25AF123E4,AID424,Corporate Tools DevOps,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+57045FC25AF123E4,AID424,Corporate Tools DevOps,Product-Corporate Systems,Product Line,,592D661C5797326A
+57045BDF5AF1204C,AID422,Learning Management Systems,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+57045BDF5AF1204C,AID422,Learning Management Systems,Product-Corporate Systems,Product Line,,592D661C5797326A
+C607DF5256494064,AID024,RTS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+C607DF5256494064,AID024,RTS,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+C607DF5256494064,AID024,RTS,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+C607DF5256494064,AID024,RTS,Christian Comte,Application Owner,jw385,christian.comte@clearstream.com
+C607DF5256494064,AID024,RTS,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+C607DF5256494064,AID024,RTS,Product-Settlement,Product Line,,592D66FA5797368A
+C607DF5256494064,AID024,RTS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+C607DF5256494064,AID024,RTS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+C607DF5256494064,AID024,RTS,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+7408D0D756652873,AID209,SAP BW,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+7408D0D756652873,AID209,SAP BW,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+7408D0D756652873,AID209,SAP BW,Product-Corporate Systems,Product Line,,592D661C5797326A
+7408D0D756652873,AID209,SAP BW,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+7408D0D756652873,AID209,SAP BW,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+7408D0D756652873,AID209,SAP BW,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7408D0D756652873,AID209,SAP BW,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+7408D0D756652873,AID209,SAP BW,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+7408D0D756652873,AID209,SAP BW,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+7408D0D756652873,AID209,SAP BW,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+7408D0D756652873,AID209,SAP BW,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+7408D0D756652873,AID209,SAP BW,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+7408D0D756652873,AID209,SAP BW,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+7408D0D756652873,AID209,SAP BW,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+7408D0D756652873,AID209,SAP BW,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+7408D0D756652873,AID209,SAP BW,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+7408D0D756652873,AID209,SAP BW,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+7408D0D756652873,AID209,SAP BW,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+7408D0D756652873,AID209,SAP BW,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+7408D0D756652873,AID209,SAP BW,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+7408D0D756652873,AID209,SAP BW,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+7408D0D756652873,AID209,SAP BW,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+7408D0D756652873,AID209,SAP BW,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+7408DEFF56652B51,AID210,SAP CRM,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+7408DEFF56652B51,AID210,SAP CRM,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+7408DEFF56652B51,AID210,SAP CRM,Product-Corporate Systems,Product Line,,592D661C5797326A
+7408DEFF56652B51,AID210,SAP CRM,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+7408DEFF56652B51,AID210,SAP CRM,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+7408DEFF56652B51,AID210,SAP CRM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7408DEFF56652B51,AID210,SAP CRM,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+7408DEFF56652B51,AID210,SAP CRM,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+7408DEFF56652B51,AID210,SAP CRM,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+7408DEFF56652B51,AID210,SAP CRM,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+7408DEFF56652B51,AID210,SAP CRM,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+7408DEFF56652B51,AID210,SAP CRM,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+7408DEFF56652B51,AID210,SAP CRM,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+7408DEFF56652B51,AID210,SAP CRM,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+7408DEFF56652B51,AID210,SAP CRM,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+7408DEFF56652B51,AID210,SAP CRM,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+7408DEFF56652B51,AID210,SAP CRM,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+7408DEFF56652B51,AID210,SAP CRM,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+7408DEFF56652B51,AID210,SAP CRM,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+7408DEFF56652B51,AID210,SAP CRM,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+7408DEFF56652B51,AID210,SAP CRM,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+7408DEFF56652B51,AID210,SAP CRM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+7408DEFF56652B51,AID210,SAP CRM,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+7B0E7C33561F782D,AID196,General STP Services,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7B0E7C33561F782D,AID196,General STP Services,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+7B0E7C33561F782D,AID196,General STP Services,Mathias Papenfuß,Business Owner,,mathias.papenfuss@clearstream.com
+7B0E7C33561F782D,AID196,General STP Services,Product-Settlement,Product Line,,592D66FA5797368A
+7B0E7C33561F782D,AID196,General STP Services,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7B0E7C33561F782D,AID196,General STP Services,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+7B0E7B94561F7349,AID056,CASCADE PC,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+7B0E7B94561F7349,AID056,CASCADE PC,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7B0E7B94561F7349,AID056,CASCADE PC,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+7B0E7B94561F7349,AID056,CASCADE PC,Matthias Stephan-Weßlin,Business Owner,,matthias.stephan-wesslin@clearstream.com
+7B0E7B94561F7349,AID056,CASCADE PC,Product-Settlement,Product Line,,592D66FA5797368A
+7B0E7B94561F7349,AID056,CASCADE PC,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7B0E7B94561F7349,AID056,CASCADE PC,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+7B0E7C99561F7947,AID123,Statistics,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7B0E7C99561F7947,AID123,Statistics,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+7B0E7C99561F7947,AID123,Statistics,Martina Gruber,Business Owner,,martina.gruber@clearstream.com
+7B0E7C99561F7947,AID123,Statistics,Product-Settlement,Product Line,,592D66FA5797368A
+7B0E7C99561F7947,AID123,Statistics,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7B0E7C99561F7947,AID123,Statistics,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+7B0E7BE8561F75EF,AID049,Cash Information,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7B0E7BE8561F75EF,AID049,Cash Information,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+7B0E7BE8561F75EF,AID049,Cash Information,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+7B0E7BE8561F75EF,AID049,Cash Information,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+7B0E7BE8561F75EF,AID049,Cash Information,Product-Settlement,Product Line,,592D66FA5797368A
+7B0E7BE8561F75EF,AID049,Cash Information,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7B0E7BE8561F75EF,AID049,Cash Information,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Michael Girg,Information Owner,,michael.girg@deutsche-boerse.com
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Christian Tüffers,Application Owner,jw606,Christian.Tueffers@deutsche-boerse.com
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Michael Girg,Business Owner,,michael.girg@deutsche-boerse.com
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Product-IT Infrastructure,Product Line,,D8AB2EEF5A946FE2
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+2D0F2D615AC77B4A,AID390,Amazon Web Services,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+2D0F2D615AC77B4A,AID390,Amazon Web Services,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+2D0F2D615AC77B4A,AID390,Amazon Web Services,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Product-Settlement,Product Line,,592D66FA5797368A
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+F313050F564B7D57,AID070,Mainframe (Residual LCS),Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+F313038E564B7A42,AID217,Income Monitoring Tool,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+F313038E564B7A42,AID217,Income Monitoring Tool,Pierre Poirier,Application Owner,an174,pierre.poirier@clearstream.com
+F313038E564B7A42,AID217,Income Monitoring Tool,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+F313038E564B7A42,AID217,Income Monitoring Tool,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+F313038E564B7A42,AID217,Income Monitoring Tool,Product-Asset Servicing,Product Line,,592D66CD579735CA
+F313038E564B7A42,AID217,Income Monitoring Tool,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+F313038E564B7A42,AID217,Income Monitoring Tool,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+F31305E3564B80A4,AID178,Common Code Generator,Jean-Luc Iffly,Application Owner,ga911,jean-luc.iffly@clearstream.com
+F31305E3564B80A4,AID178,Common Code Generator,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+F31305E3564B80A4,AID178,Common Code Generator,Product-Settlement,Product Line,,592D66FA5797368A
+611A619158243744,AID258,Clarity (CA PPM),Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+611A619158243744,AID258,Clarity (CA PPM),Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+611A619158243744,AID258,Clarity (CA PPM),Product-Corporate Systems,Product Line,,592D661C5797326A
+611A619158243744,AID258,Clarity (CA PPM),ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+611A619158243744,AID258,Clarity (CA PPM),Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+611A619158243744,AID258,Clarity (CA PPM),Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+611A619158243744,AID258,Clarity (CA PPM),Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+611A619158243744,AID258,Clarity (CA PPM),Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+611A619158243744,AID258,Clarity (CA PPM),Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+611A619158243744,AID258,Clarity (CA PPM),LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+611A619158243744,AID258,Clarity (CA PPM),360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+611A619158243744,AID258,Clarity (CA PPM),STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+611A619158243744,AID258,Clarity (CA PPM),Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+611A619158243744,AID258,Clarity (CA PPM),Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+EA1AEBBC584F6A1B,AID260,Hyparchive,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+EA1AEBBC584F6A1B,AID260,Hyparchive,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+EA1AEBBC584F6A1B,AID260,Hyparchive,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+EA1AEBBC584F6A1B,AID260,Hyparchive,Product-Corporate Systems,Product Line,,592D661C5797326A
+EA1AEBBC584F6A1B,AID260,Hyparchive,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+EA1AEBBC584F6A1B,AID260,Hyparchive,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+EA1AEBBC584F6A1B,AID260,Hyparchive,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+EA1AEBBC584F6A1B,AID260,Hyparchive,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+EA1AEBBC584F6A1B,AID260,Hyparchive,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+EA1AEBBC584F6A1B,AID260,Hyparchive,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+EA1AEBBC584F6A1B,AID260,Hyparchive,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+EA1AEBBC584F6A1B,AID260,Hyparchive,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+EA1AEBBC584F6A1B,AID260,Hyparchive,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+EA1AEBBC584F6A1B,AID260,Hyparchive,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+EA1AEBBC584F6A1B,AID260,Hyparchive,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+EA1AEBBC584F6A1B,AID260,Hyparchive,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+EA1AEBBC584F6A1B,AID260,Hyparchive,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F51B50A65A4E1D9F,AID327,Paper Archive,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+F51B50A65A4E1D9F,AID327,Paper Archive,Fernand Roth,Business Owner,,fernand.roth@clearstream.com
+F51B50A65A4E1D9F,AID327,Paper Archive,Product-Corporate Systems,Product Line,,592D661C5797326A
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Michael Girg,Information Owner,,michael.girg@deutsche-boerse.com
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Michael Girg,Business Owner,,michael.girg@deutsche-boerse.com
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Christian Tüffers,Application Owner,jw606,Christian.Tueffers@deutsche-boerse.com
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Product-IT Infrastructure,Product Line,,D8AB2EEF5A946FE2
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+C81CC88A5AA77BF5,AID361,Azure Cloud Platform,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Frank Hoba,Business Owner,,frank.hoba@eurexchange.com
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Ingrid Vogel,Information Owner,,ingrid.vogel@deutsche-boerse.com
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Product-Derivatives,Product Line,,592D664C5797332A
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+D91D265A5AA90B5D,AID362,Market Supervision Toolset - minor group,Eurex Frankfurt AG,Owning Legal Entity,,4D0A890B590C3D31
+9E219E8D56027357,AID006,Risk Engine,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8D56027357,AID006,Risk Engine,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+9E219E8D56027357,AID006,Risk Engine,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+9E219E8D56027357,AID006,Risk Engine,Product-Risk,Product Line,,592D666E579733EA
+9E219E8D56027357,AID006,Risk Engine,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8D56027357,AID006,Risk Engine,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8D56027372,AID007,XONTRO,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8D56027372,AID007,XONTRO,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8D56027372,AID007,XONTRO,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8D56027372,AID007,XONTRO,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8D560272AE,AID001,Eurex Classic,Heike Eckert,Business Owner,,heike.eckert@eurexclearing.com
+9E219E8D560272AE,AID001,Eurex Classic,Joerg Heroth,Application Owner,eb360,joerg.heroth@deutsche-boerse.com
+9E219E8D560272AE,AID001,Eurex Classic,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8D560272AE,AID001,Eurex Classic,Product-Clearing,Product Line,,592D665E5797338A
+9E219E8D560272AE,AID001,Eurex Classic,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8D560272AE,AID001,Eurex Classic,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8D560272AE,AID001,Eurex Classic,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8D560272D3,AID002,XETRA,Martin Reck,Business Owner,,martin.reck@deutsche-boerse.com
+9E219E8D560272D3,AID002,XETRA,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+9E219E8D560272D3,AID002,XETRA,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E8D560272D3,AID002,XETRA,Product-Cash,Product Line,,592D663B579732CA
+9E219E8D560272D3,AID002,XETRA,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E8D560272D3,AID002,XETRA,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8D560272FF,AID004,CCP,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8D560272FF,AID004,CCP,Heike Eckert,Business Owner,,heike.eckert@eurexclearing.com
+9E219E8D560272FF,AID004,CCP,Jörg Schätzlein,Application Owner,lz821,Joerg.schaetzlein@deutsche-boerse.com
+9E219E8D560272FF,AID004,CCP,Product-Clearing,Product Line,,592D665E5797338A
+9E219E8D560272FF,AID004,CCP,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8D560272FF,AID004,CCP,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8D560272FF,AID004,CCP,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E56027400,AID011,T7,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E8E56027400,AID011,T7,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+9E219E8E56027400,AID011,T7,Randolf Roth,Business Owner,,randolf.roth@eurexchange.com
+9E219E8E56027400,AID011,T7,Ingrid Vogel,Information Owner,,ingrid.vogel@deutsche-boerse.com
+9E219E8E56027400,AID011,T7,Hans-Georg Kornmann,Business Owner,,hans-georg.kornmann@deutsche-boerse.com
+9E219E8E56027400,AID011,T7,Product-Derivatives,Product Line,,592D664C5797332A
+9E219E8E56027400,AID011,T7,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E8E56027400,AID011,T7,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E8E56027400,AID011,T7,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8E56027400,AID011,T7,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E56027431,AID015,Prisma,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+9E219E8E56027431,AID015,Prisma,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+9E219E8E56027431,AID015,Prisma,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8E56027431,AID015,Prisma,Product-Risk,Product Line,,592D666E579733EA
+9E219E8E56027431,AID015,Prisma,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8E56027431,AID015,Prisma,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8E56027431,AID015,Prisma,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E5602744E,AID017,CEF,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+9E219E8E5602744E,AID017,CEF,Sascha Bauerfeld,Application Owner,,sascha.bauerfeld@deutsche-boerse.com
+9E219E8E5602744E,AID017,CEF,Hartmut Graf,Business Owner,,Hartmut.Graf@stoxx.com
+9E219E8E5602744E,AID017,CEF,Product-Data,Product Line,,592D669F5797350A
+9E219E8E5602744E,AID017,CEF,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E56027468,AID018,XIS,Regina Wenz,Application Owner,ql866,Regina.Wenz@deutsche-boerse.com
+9E219E8E56027468,AID018,XIS,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+9E219E8E56027468,AID018,XIS,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+9E219E8E56027468,AID018,XIS,Product-Data,Product Line,,592D669F5797350A
+9E219E8E56027468,AID018,XIS,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E5602747F,AID019,StatistiX,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8E5602747F,AID019,StatistiX,Edward Backes,Information Owner,,Edward.Backes@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Michael Peters,Information Owner,,michael.peters@eurexchange.com
+9E219E8E5602747F,AID019,StatistiX,Frank Gast,Information Owner,,Frank.Gast@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Florian Gattung,Information Owner,pl407,florian.gattung@deutsche-boerse.com
+9E219E8E5602747F,AID019,StatistiX,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8E5602747F,AID019,StatistiX,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8E5602747F,AID019,StatistiX,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8E5602747F,AID019,StatistiX,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E5602748B,AID020,Calypso,Jan Paucek,Application Owner,ng942,Jan.Paucek@eurexclearing.com
+9E219E8E5602748B,AID020,Calypso,Heike Eckert,Business Owner,,heike.eckert@eurexclearing.com
+9E219E8E5602748B,AID020,Calypso,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8E5602748B,AID020,Calypso,Product-Clearing,Product Line,,592D665E5797338A
+9E219E8E5602748B,AID020,Calypso,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8E5602748B,AID020,Calypso,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8E5602748B,AID020,Calypso,Eurex Clearing AG,Owning Legal Entity,,4D0A88D7590C3CDD
+9E219E8E560273A5,AID008,WSS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8E560273A5,AID008,WSS,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8E560273A5,AID008,WSS,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8E560273A5,AID008,WSS,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8E560273A5,AID008,WSS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8E560273A5,AID008,WSS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8E560273A5,AID008,WSS,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8E560273B4,AID009,KUSTA,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8E560273B4,AID009,KUSTA,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8E560273B4,AID009,KUSTA,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8E560273B4,AID009,KUSTA,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8E560273B4,AID009,KUSTA,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8E560273B4,AID009,KUSTA,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8E560273B4,AID009,KUSTA,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8E560274B4,AID021,C7,Joerg Heroth,Application Owner,eb360,joerg.heroth@deutsche-boerse.com
+9E219E8E560274B4,AID021,C7,Heike Eckert,Business Owner,,heike.eckert@eurexclearing.com
+9E219E8E560274B4,AID021,C7,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E8E560274B4,AID021,C7,Product-Clearing,Product Line,,592D665E5797338A
+9E219E8E560274B4,AID021,C7,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8E560274B4,AID021,C7,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8E560274B4,AID021,C7,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8E560274D9,AID022,CASCADE,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8E560274D9,AID022,CASCADE,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E8E560274D9,AID022,CASCADE,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E8E560274D9,AID022,CASCADE,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E8E560274D9,AID022,CASCADE,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E8E560274D9,AID022,CASCADE,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8E560274D9,AID022,CASCADE,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8E560274D9,AID022,CASCADE,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8E560274D9,AID022,CASCADE,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E8F5602761A,AID033,Custody,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F5602761A,AID033,Custody,Lionel Steib,Application Owner,lr531,lionel.steib@clearstream.com
+9E219E8F5602761A,AID033,Custody,Bernard Villar,Application Owner,py189,bernard.villar@clearstream.com
+9E219E8F5602761A,AID033,Custody,Fabian Nelissen,Business Owner,,fabian.nelissen@clearstream.com
+9E219E8F5602761A,AID033,Custody,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E8F5602761A,AID033,Custody,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F5602761A,AID033,Custody,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F5602761A,AID033,Custody,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F5602751D,AID025,KADI,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E8F5602751D,AID025,KADI,Maurice Lamy,Application Owner,,maurice.lamy@clearstream.com
+9E219E8F5602751D,AID025,KADI,Fabian Nelissen,Business Owner,,fabian.nelissen@clearstream.com
+9E219E8F5602751D,AID025,KADI,Marco Wesser,Business Owner,jd826,marko.wesser@clearstream.com
+9E219E8F5602751D,AID025,KADI,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F5602751D,AID025,KADI,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E8F5602751D,AID025,KADI,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8F5602751D,AID025,KADI,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F5602751D,AID025,KADI,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8F5602751D,AID025,KADI,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E8F56027535,AID026,Vestima+,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+9E219E8F56027535,AID026,Vestima+,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F56027535,AID026,Vestima+,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+9E219E8F56027535,AID026,Vestima+,Product-IFS,Product Line,,592D66E95797362A
+9E219E8F56027535,AID026,Vestima+,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F56027535,AID026,Vestima+,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E8F56027644,AID034,CmaX,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F56027644,AID034,CmaX,Stephen Holden,Application Owner,no078,Stephen.Holden@clearstream.com
+9E219E8F56027644,AID034,CmaX,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E8F56027644,AID034,CmaX,Product-GFF,Product Line,,592D66BB5797356A
+9E219E8F56027644,AID034,CmaX,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E8F56027644,AID034,CmaX,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F56027644,AID034,CmaX,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E8F56027644,AID034,CmaX,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E8F5602755A,AID027,NCS,Bernard Villar,Application Owner,py189,bernard.villar@clearstream.com
+9E219E8F5602755A,AID027,NCS,Lionel Steib,Application Owner,lr531,lionel.steib@clearstream.com
+9E219E8F5602755A,AID027,NCS,Fabian Nelissen,Business Owner,,fabian.nelissen@clearstream.com
+9E219E8F5602755A,AID027,NCS,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E8F5602755A,AID027,NCS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F5602755A,AID027,NCS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F5602755A,AID027,NCS,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F5602765E,AID035,HUB,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F5602765E,AID035,HUB,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E8F5602765E,AID035,HUB,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E8F5602765E,AID035,HUB,Marek Horak,Application Owner,rp713,marek.horak@deutsche-boerse.com
+9E219E8F5602765E,AID035,HUB,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E8F5602765E,AID035,HUB,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F5602765E,AID035,HUB,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F5602765E,AID035,HUB,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F56027595,AID028,Report Server,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F56027595,AID028,Report Server,Christian Comte,Application Owner,jw385,christian.comte@clearstream.com
+9E219E8F56027595,AID028,Report Server,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E8F56027595,AID028,Report Server,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E8F56027595,AID028,Report Server,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E8F56027595,AID028,Report Server,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E8F56027595,AID028,Report Server,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F56027595,AID028,Report Server,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F56027595,AID028,Report Server,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E8F560275B5,AID029,Dataserver,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8F560275B5,AID029,Dataserver,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8F560275B5,AID029,Dataserver,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8F560275B5,AID029,Dataserver,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F560275B5,AID029,Dataserver,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F560275B5,AID029,Dataserver,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F560275D6,AID030,RDF,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F560275D6,AID030,RDF,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8F560275D6,AID030,RDF,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8F560275D6,AID030,RDF,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8F560275D6,AID030,RDF,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F560275D6,AID030,RDF,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F560275D6,AID030,RDF,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E8F560275D6,AID030,RDF,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F560275D6,AID030,RDF,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E8F560275D6,AID030,RDF,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E8F560275D6,AID030,RDF,LuxCSD S.A.,Owning Legal Entity,,4D0A8968590C3DD9
+9E219E8F560275D6,AID030,RDF,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8F560275D6,AID030,RDF,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E8F560275F2,AID031,AM,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F560275F2,AID031,AM,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8F560275F2,AID031,AM,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8F560275F2,AID031,AM,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8F560275F2,AID031,AM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F560275F2,AID031,AM,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F560275F2,AID031,AM,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E8F560275F2,AID031,AM,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F560275F2,AID031,AM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E8F560275FD,AID032,MARS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E8F560275FD,AID032,MARS,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E8F560275FD,AID032,MARS,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E8F560275FD,AID032,MARS,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E8F560275FD,AID032,MARS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E8F560275FD,AID032,MARS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E8F560275FD,AID032,MARS,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E8F560275FD,AID032,MARS,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E905602770F,AID043,Vaults,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E905602770F,AID043,Vaults,Maurice Lamy,Application Owner,,maurice.lamy@clearstream.com
+9E219E905602770F,AID043,Vaults,Marc Kieffer,Business Owner,,marc.kieffer@clearstream.com
+9E219E905602770F,AID043,Vaults,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E905602770F,AID043,Vaults,Eva-Maria Keller,Business Owner,hm358,eva-maria.keller@clearstream.com
+9E219E905602770F,AID043,Vaults,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E905602770F,AID043,Vaults,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E905602770F,AID043,Vaults,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9056027724,AID044,Xemac,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027724,AID044,Xemac,Stephen Holden,Application Owner,no078,Stephen.Holden@clearstream.com
+9E219E9056027724,AID044,Xemac,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9056027724,AID044,Xemac,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E9056027724,AID044,Xemac,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9056027724,AID044,Xemac,Product-GFF,Product Line,,592D66BB5797356A
+9E219E9056027724,AID044,Xemac,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E9056027724,AID044,Xemac,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027724,AID044,Xemac,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9056027724,AID044,Xemac,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E9056027724,AID044,Xemac,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E905602772A,AID045,LMS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E905602772A,AID045,LMS,Stephen Holden,Application Owner,no078,Stephen.Holden@clearstream.com
+9E219E905602772A,AID045,LMS,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E905602772A,AID045,LMS,Fabrice Tomenko,Application Owner,,Fabrice.Tomenko@deutsche-boerse.com
+9E219E905602772A,AID045,LMS,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E905602772A,AID045,LMS,Jean-Robert Wilkin,Business Owner,,Jean-Robert.Wilkin@clearstream.com
+9E219E905602772A,AID045,LMS,Product-GFF,Product Line,,592D66BB5797356A
+9E219E905602772A,AID045,LMS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E905602772A,AID045,LMS,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Matthias Stephan-Weßlin,Business Owner,,matthias.stephan-wesslin@clearstream.com
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027734,AID046,LIMA/SPOC/X-Gen,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9056027741,AID047,T2C-I,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9056027741,AID047,T2C-I,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9056027741,AID047,T2C-I,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027741,AID047,T2C-I,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E9056027741,AID047,T2C-I,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9056027741,AID047,T2C-I,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027741,AID047,T2C-I,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9056027676,AID036,NCCIP,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027676,AID036,NCCIP,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E9056027676,AID036,NCCIP,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9056027676,AID036,NCCIP,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9056027676,AID036,NCCIP,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027676,AID036,NCCIP,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9056027676,AID036,NCCIP,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E9056027676,AID036,NCCIP,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+9E219E9056027676,AID036,NCCIP,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9056027681,AID037,Clearstream Portal,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027681,AID037,Clearstream Portal,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E9056027681,AID037,Clearstream Portal,Pierre Poirier,Application Owner,an174,pierre.poirier@clearstream.com
+9E219E9056027681,AID037,Clearstream Portal,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E9056027681,AID037,Clearstream Portal,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E9056027681,AID037,Clearstream Portal,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027681,AID037,Clearstream Portal,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9056027681,AID037,Clearstream Portal,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9056027696,AID038,CreationDirect,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9056027696,AID038,CreationDirect,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E9056027696,AID038,CreationDirect,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E9056027696,AID038,CreationDirect,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E9056027696,AID038,CreationDirect,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9056027696,AID038,CreationDirect,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9056027696,AID038,CreationDirect,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E90560276B1,AID039,CreationOnline,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E90560276B1,AID039,CreationOnline,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E90560276B1,AID039,CreationOnline,Pierre Poirier,Application Owner,an174,pierre.poirier@clearstream.com
+9E219E90560276B1,AID039,CreationOnline,Caterina Nudo,Business Owner,,caterina.nudo@clearstream.com
+9E219E90560276B1,AID039,CreationOnline,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E90560276B1,AID039,CreationOnline,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E90560276B1,AID039,CreationOnline,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E90560276B1,AID039,CreationOnline,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E90560276B1,AID039,CreationOnline,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E90560276B1,AID039,CreationOnline,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E90560276B8,AID040,LION,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E90560276B8,AID040,LION,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E90560276B8,AID040,LION,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E90560276B8,AID040,LION,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E90560276B8,AID040,LION,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E90560276B8,AID040,LION,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E90560276B8,AID040,LION,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E90560276BE,AID041,Cash Lifecycle,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E90560276BE,AID041,Cash Lifecycle,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E90560276BE,AID041,Cash Lifecycle,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E90560276BE,AID041,Cash Lifecycle,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E90560276BE,AID041,Cash Lifecycle,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E90560276BE,AID041,Cash Lifecycle,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E90560276BE,AID041,Cash Lifecycle,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E90560277F0,AID050,KV Geld,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E90560277F0,AID050,KV Geld,Maurice Lamy,Application Owner,,maurice.lamy@clearstream.com
+9E219E90560277F0,AID050,KV Geld,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E90560277F0,AID050,KV Geld,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E90560277F0,AID050,KV Geld,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E90560277F0,AID050,KV Geld,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E90560277F0,AID050,KV Geld,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E90560277F0,AID050,KV Geld,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E90560276F6,AID042,CASCADE RS,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E90560276F6,AID042,CASCADE RS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E90560276F6,AID042,CASCADE RS,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E90560276F6,AID042,CASCADE RS,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E90560276F6,AID042,CASCADE RS,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E90560276F6,AID042,CASCADE RS,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E90560276F6,AID042,CASCADE RS,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E915602791C,AID064,TIG,Jutta Gebhardt,Application Owner,ne232,Jutta.Gebhardt@deutsche-boerse.com
+9E219E915602791C,AID064,TIG,Jens Rick,Business Owner,,jens.rick@deutsche-boerse.com
+9E219E915602791C,AID064,TIG,Jens Hein,Application Owner,lp320,jens.hein@deutsche-boerse.com
+9E219E915602791C,AID064,TIG,Marek Hudik,Application Owner,gi997,marek.hudik@deutsche-boerse.com
+9E219E915602791C,AID064,TIG,Stefanie Naeder,Business Owner,,Stefanie.Naeder@deutsche-boerse.com
+9E219E915602791C,AID064,TIG,Product-Energy,Product Line,,592D667C5797344A
+9E219E915602781F,AID052,STOP,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E915602781F,AID052,STOP,Alena Jarosova,Application Owner,kt768,alena.jarosova@deutsche-boerse.com
+9E219E915602781F,AID052,STOP,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E915602781F,AID052,STOP,Mark Gem,Business Owner,,mark.gem@clearstream.com
+9E219E915602781F,AID052,STOP,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E915602781F,AID052,STOP,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E915602781F,AID052,STOP,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E915602781F,AID052,STOP,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E915602781F,AID052,STOP,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E915602781F,AID052,STOP,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9156027836,AID053,TaxBox,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9156027836,AID053,TaxBox,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9156027836,AID053,TaxBox,Fabian Nelissen,Business Owner,,fabian.nelissen@clearstream.com
+9E219E9156027836,AID053,TaxBox,Matthias Stephan-Weßlin,Business Owner,,matthias.stephan-wesslin@clearstream.com
+9E219E9156027836,AID053,TaxBox,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9156027836,AID053,TaxBox,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9156027836,AID053,TaxBox,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9156027944,AID065,NCMS/CEMT,Frederic Vandenhende,Application Owner,cb640,frederic.vandenhende@clearstream.com
+9E219E9156027944,AID065,NCMS/CEMT,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9156027944,AID065,NCMS/CEMT,Joao Amaral,Business Owner,,joao.amaral@clearstream.com
+9E219E9156027944,AID065,NCMS/CEMT,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+9E219E9156027944,AID065,NCMS/CEMT,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9156027857,AID055,SAFIR,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9156027857,AID055,SAFIR,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9156027857,AID055,SAFIR,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9156027857,AID055,SAFIR,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E9156027857,AID055,SAFIR,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9156027857,AID055,SAFIR,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9156027857,AID055,SAFIR,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9156027868,AID057,CASH II,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9156027868,AID057,CASH II,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9156027868,AID057,CASH II,Mathias Papenfuß,Business Owner,,mathias.papenfuss@clearstream.com
+9E219E9156027868,AID057,CASH II,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9156027868,AID057,CASH II,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9156027868,AID057,CASH II,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E915602787D,AID058,Settlement Discipline,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E915602787D,AID058,Settlement Discipline,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E915602787D,AID058,Settlement Discipline,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E915602787D,AID058,Settlement Discipline,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E915602787D,AID058,Settlement Discipline,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E91560278BB,AID059,M7 Trading,Egon Gemmel,Application Owner,,egon.gemmel@deutsche-boerse.com
+9E219E91560278BB,AID059,M7 Trading,Peter Reitz,Business Owner,,Peter.Reitz@eex.com
+9E219E91560278BB,AID059,M7 Trading,Stefanie Naeder,Business Owner,,Stefanie.Naeder@deutsche-boerse.com
+9E219E91560278BB,AID059,M7 Trading,Jens Rick,Business Owner,,jens.rick@deutsche-boerse.com
+9E219E91560278BB,AID059,M7 Trading,Michal Mizisin,Application Owner,sc079,michal.mizisin@deutsche-boerse.com
+9E219E91560278BB,AID059,M7 Trading,Product-Energy,Product Line,,592D667C5797344A
+9E219E91560278EC,AID060,M7 Capacity,Vanya Ataya,Application Owner,,Vanya.Ataya@deutsche-boerse.com
+9E219E91560278EC,AID060,M7 Capacity,Jens Rick,Business Owner,,jens.rick@deutsche-boerse.com
+9E219E91560278EC,AID060,M7 Capacity,Ulugbek Masaidov,Application Owner,tt016,ulugbek.masaidov@deutsche-boerse.com
+9E219E91560278EC,AID060,M7 Capacity,Stefanie Naeder,Business Owner,,Stefanie.Naeder@deutsche-boerse.com
+9E219E91560278EC,AID060,M7 Capacity,Peter Reitz,Business Owner,,Peter.Reitz@eex.com
+9E219E91560278EC,AID060,M7 Capacity,Jens Hein,Application Owner,lp320,jens.hein@deutsche-boerse.com
+9E219E91560278EC,AID060,M7 Capacity,Product-Energy,Product Line,,592D667C5797344A
+9E219E9256027B25,AID099,Xentric,Product-Data,Product Line,,592D669F5797350A
+9E219E9256027B25,AID099,Xentric,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E9256027B25,AID099,Xentric,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E9256027A30,AID081,Codelist,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027A30,AID081,Codelist,Bernard Villar,Application Owner,py189,bernard.villar@clearstream.com
+9E219E9256027A30,AID081,Codelist,Marc Kieffer,Business Owner,,marc.kieffer@clearstream.com
+9E219E9256027A30,AID081,Codelist,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E9256027A30,AID081,Codelist,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9256027A30,AID081,Codelist,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9256027A3E,AID082,NOSTRO,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027A3E,AID082,NOSTRO,Frederic Vandenhende,Application Owner,cb640,frederic.vandenhende@clearstream.com
+9E219E9256027A3E,AID082,NOSTRO,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9256027A3E,AID082,NOSTRO,Pierrette Muller,Business Owner,,pierrette.muller@clearstream.com
+9E219E9256027A3E,AID082,NOSTRO,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9256027A3E,AID082,NOSTRO,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027A3E,AID082,NOSTRO,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9256027A3E,AID082,NOSTRO,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E9256027A3E,AID082,NOSTRO,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+9E219E9256027A3E,AID082,NOSTRO,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+9E219E9256027A3E,AID082,NOSTRO,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9256027B46,AID103,XETRA PND Frontends,Martin Reck,Business Owner,,martin.reck@deutsche-boerse.com
+9E219E9256027B46,AID103,XETRA PND Frontends,Antonin Kunes,Application Owner,,antonin.kunes@deutsche-boerse.com
+9E219E9256027B46,AID103,XETRA PND Frontends,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E9256027B46,AID103,XETRA PND Frontends,Product-Cash,Product Line,,592D663B579732CA
+9E219E9256027B46,AID103,XETRA PND Frontends,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9256027B46,AID103,XETRA PND Frontends,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9256027962,AID066,CSE,Christian Comte,Application Owner,jw385,christian.comte@clearstream.com
+9E219E9256027962,AID066,CSE,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027962,AID066,CSE,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E9256027962,AID066,CSE,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9256027962,AID066,CSE,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9256027962,AID066,CSE,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9256027962,AID066,CSE,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027962,AID066,CSE,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9256027962,AID066,CSE,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E9256027973,AID067,PM/CSD,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027973,AID067,PM/CSD,Christian Comte,Application Owner,jw385,christian.comte@clearstream.com
+9E219E9256027973,AID067,PM/CSD,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9256027973,AID067,PM/CSD,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E9256027973,AID067,PM/CSD,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9256027973,AID067,PM/CSD,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9256027973,AID067,PM/CSD,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027973,AID067,PM/CSD,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9256027973,AID067,PM/CSD,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E9256027A73,AID083,BMWeb,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027A73,AID083,BMWeb,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E9256027A73,AID083,BMWeb,Marek Horak,Application Owner,rp713,marek.horak@deutsche-boerse.com
+9E219E9256027A73,AID083,BMWeb,Pierrette Muller,Business Owner,,pierrette.muller@clearstream.com
+9E219E9256027A73,AID083,BMWeb,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E9256027A73,AID083,BMWeb,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027A73,AID083,BMWeb,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9256027A73,AID083,BMWeb,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9256027997,AID069,Settlement Reporting,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027997,AID069,Settlement Reporting,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9256027997,AID069,Settlement Reporting,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9256027997,AID069,Settlement Reporting,Volker Kresin,Business Owner,,volker.kresin@clearstream.com
+9E219E9256027997,AID069,Settlement Reporting,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9256027997,AID069,Settlement Reporting,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027997,AID069,Settlement Reporting,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E9256027A97,AID088,XCREEN,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E9256027A97,AID088,XCREEN,Bernd Eschenbrücher,Business Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E9256027A97,AID088,XCREEN,Regina Wenz,Application Owner,ql866,Regina.Wenz@deutsche-boerse.com
+9E219E9256027A97,AID088,XCREEN,Product-Data,Product Line,,592D669F5797350A
+9E219E9256027A97,AID088,XCREEN,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E92560279B5,AID075,GAIN,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E92560279B5,AID075,GAIN,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E92560279B5,AID075,GAIN,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E92560279B5,AID075,GAIN,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E92560279B5,AID075,GAIN,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E92560279B5,AID075,GAIN,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E92560279B5,AID075,GAIN,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E92560279B5,AID075,GAIN,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E92560279B5,AID075,GAIN,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9256027AB5,AID091,T2S-I,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9256027AB5,AID091,T2S-I,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9256027AB5,AID091,T2S-I,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9256027AB5,AID091,T2S-I,Alena Jarosova,Application Owner,kt768,alena.jarosova@deutsche-boerse.com
+9E219E9256027AB5,AID091,T2S-I,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9256027AB5,AID091,T2S-I,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9256027AB5,AID091,T2S-I,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9256027AB5,AID091,T2S-I,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9256027AB5,AID091,T2S-I,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E92560279BB,AID076,Regulatory Reporting,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E92560279BB,AID076,Regulatory Reporting,Florian Rodeit,Business Owner,,florian.rodeit@deutsche-boerse.com
+9E219E92560279BB,AID076,Regulatory Reporting,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E92560279BB,AID076,Regulatory Reporting,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E92560279BB,AID076,Regulatory Reporting,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E92560279BB,AID076,Regulatory Reporting,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E92560279BB,AID076,Regulatory Reporting,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E92560279BB,AID076,Regulatory Reporting,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+9E219E92560279BB,AID076,Regulatory Reporting,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9256027AD3,AID093,CRE,Heike Eckert,Business Owner,,heike.eckert@eurexclearing.com
+9E219E9256027AD3,AID093,CRE,Gerd Koebschall,Application Owner,,gerd.koebschall@deutsche-boerse.com
+9E219E9256027AD3,AID093,CRE,Vinzent Czyzewski,Application Owner,,vinzent.czyzewski@deutsche-boerse.com
+9E219E9256027AD3,AID093,CRE,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+9E219E9256027AD3,AID093,CRE,Product-Derivatives,Product Line,,592D664C5797332A
+9E219E9256027AD3,AID093,CRE,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E9256027AD3,AID093,CRE,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9256027AD3,AID093,CRE,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E9256027AD3,AID093,CRE,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E9256027AD3,AID093,CRE,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+9E219E9256027AD3,AID093,CRE,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9256027AD3,AID093,CRE,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E92560279D7,AID079,DDR,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E92560279D7,AID079,DDR,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E92560279D7,AID079,DDR,Pierrette Muller,Business Owner,,pierrette.muller@clearstream.com
+9E219E92560279D7,AID079,DDR,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E92560279D7,AID079,DDR,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E92560279D7,AID079,DDR,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E92560279D7,AID079,DDR,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E92560279D7,AID079,DDR,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+9E219E92560279D7,AID079,DDR,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+9E219E92560279D7,AID079,DDR,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+9E219E9256027AF5,AID096,T7 FIX Gateway,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E9256027AF5,AID096,T7 FIX Gateway,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+9E219E9256027AF5,AID096,T7 FIX Gateway,Randolf Roth,Business Owner,,randolf.roth@eurexchange.com
+9E219E9256027AF5,AID096,T7 FIX Gateway,Hans-Georg Kornmann,Business Owner,,hans-georg.kornmann@deutsche-boerse.com
+9E219E9256027AF5,AID096,T7 FIX Gateway,Product-Derivatives,Product Line,,592D664C5797332A
+9E219E9256027AF5,AID096,T7 FIX Gateway,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9256027AF5,AID096,T7 FIX Gateway,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E9256027AF5,AID096,T7 FIX Gateway,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9256027AF5,AID096,T7 FIX Gateway,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E92560279FD,AID080,Import/PI2,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E92560279FD,AID080,Import/PI2,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E92560279FD,AID080,Import/PI2,Pierrette Muller,Business Owner,,pierrette.muller@clearstream.com
+9E219E92560279FD,AID080,Import/PI2,Frederic Vandenhende,Application Owner,cb640,frederic.vandenhende@clearstream.com
+9E219E92560279FD,AID080,Import/PI2,Ales Privetivy,Application Owner,tb595,ales.privetivy@deutsche-boerse.com
+9E219E92560279FD,AID080,Import/PI2,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E92560279FD,AID080,Import/PI2,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E92560279FD,AID080,Import/PI2,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E92560279FD,AID080,Import/PI2,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9356027C25,AID140,PM/ICSD,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9356027C25,AID140,PM/ICSD,Christian Comte,Application Owner,jw385,christian.comte@clearstream.com
+9E219E9356027C25,AID140,PM/ICSD,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+9E219E9356027C25,AID140,PM/ICSD,Carsten Puls,Application Owner,ax830,Carsten.Puls@clearstream.com
+9E219E9356027C25,AID140,PM/ICSD,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9356027C25,AID140,PM/ICSD,Product-Settlement,Product Line,,592D66FA5797368A
+9E219E9356027C25,AID140,PM/ICSD,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9356027C25,AID140,PM/ICSD,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E9356027C3C,AID154,SAP ERP,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+9E219E9356027C3C,AID154,SAP ERP,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+9E219E9356027C3C,AID154,SAP ERP,Product-Corporate Systems,Product Line,,592D661C5797326A
+9E219E9356027C3C,AID154,SAP ERP,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E9356027C3C,AID154,SAP ERP,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+9E219E9356027C3C,AID154,SAP ERP,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9356027C3C,AID154,SAP ERP,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9356027C3C,AID154,SAP ERP,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+9E219E9356027C3C,AID154,SAP ERP,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+9E219E9356027C3C,AID154,SAP ERP,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+9E219E9356027C3C,AID154,SAP ERP,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+9E219E9356027C3C,AID154,SAP ERP,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9356027C3C,AID154,SAP ERP,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E9356027C3C,AID154,SAP ERP,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+9E219E9356027C3C,AID154,SAP ERP,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E9356027C3C,AID154,SAP ERP,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+9E219E9356027C3C,AID154,SAP ERP,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+9E219E9356027C3C,AID154,SAP ERP,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+9E219E9356027C3C,AID154,SAP ERP,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+9E219E9356027C3C,AID154,SAP ERP,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+9E219E9356027C3C,AID154,SAP ERP,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+9E219E9356027C3C,AID154,SAP ERP,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9356027C3C,AID154,SAP ERP,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9356027C46,AID176,Data on Demand Initiative,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+9E219E9356027C46,AID176,Data on Demand Initiative,Michael Schubbert,Application Owner,,michael.schubbert@deutsche-boerse.com
+9E219E9356027C46,AID176,Data on Demand Initiative,Hartmut Graf,Business Owner,,Hartmut.Graf@stoxx.com
+9E219E9356027C46,AID176,Data on Demand Initiative,Product-Data,Product Line,,592D669F5797350A
+9E219E9356027C46,AID176,Data on Demand Initiative,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9356027C61,AID181,F7,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+9E219E9356027C61,AID181,F7,Marcel Naas,Business Owner,,marcel.naas@deutsche-boerse.com
+9E219E9356027C61,AID181,F7,Florian Seifferer,Information Owner,,Florian.Seifferer@deutsche-boerse.com
+9E219E9356027C61,AID181,F7,Product-Derivatives,Product Line,,592D664C5797332A
+9E219E9356027C61,AID181,F7,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+9E219E9356027C61,AID181,F7,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+9E219E9356027C61,AID181,F7,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9356027B88,AID106,OPM,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+9E219E9356027B88,AID106,OPM,Randolf Roth,Business Owner,,randolf.roth@eurexchange.com
+9E219E9356027B88,AID106,OPM,Ingrid Vogel,Information Owner,,ingrid.vogel@deutsche-boerse.com
+9E219E9356027B88,AID106,OPM,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+9E219E9356027B88,AID106,OPM,Product-Derivatives,Product Line,,592D664C5797332A
+9E219E9356027B88,AID106,OPM,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+9E219E9356027B88,AID106,OPM,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9356027B88,AID106,OPM,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+9E219E9356027B88,AID106,OPM,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E9356027B88,AID106,OPM,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+9E219E9356027B88,AID106,OPM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9356027B88,AID106,OPM,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Marianne Rothkegel,Application Owner,bm314,Marianne.Rothkegel@deutsche-boerse.com
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Michael Zollweg,Business Owner,,Michael.Zollweg@deutsche-boerse.com
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Michael Zollweg,Information Owner,,Michael.Zollweg@deutsche-boerse.com
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Product-Cash,Product Line,,592D663B579732CA
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+9E219E9356027BC4,AID118,SCILA Surveillance (HüSt only),Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9356027BDB,AID130,MD+S Interactive,Stefan Rothenbacher,Application Owner,,stefan.rothenbacher@deutsche-boerse.com
+9E219E9356027BDB,AID130,MD+S Interactive,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+9E219E9356027BDB,AID130,MD+S Interactive,Holger Wohlenberg,Business Owner,,holger.wohlenberg@deutsche-boerse.com
+9E219E9356027BDB,AID130,MD+S Interactive,Product-Data,Product Line,,592D669F5797350A
+9E219E9356027BDB,AID130,MD+S Interactive,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+9E219E9456027D2C,AID187,4Sight/C4I,Stephen Holden,Application Owner,no078,Stephen.Holden@clearstream.com
+9E219E9456027D2C,AID187,4Sight/C4I,Fabrice Tomenko,Information Owner,,Fabrice.Tomenko@deutsche-boerse.com
+9E219E9456027D2C,AID187,4Sight/C4I,Denis Schloremberg,Business Owner,ed565,denis.schloremberg@clearstream.com
+9E219E9456027D2C,AID187,4Sight/C4I,Product-GFF,Product Line,,592D66BB5797356A
+9E219E9456027D2C,AID187,4Sight/C4I,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+9E219E9456027D2C,AID187,4Sight/C4I,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E219E9456027D54,AID188,Tax Cluster,Pierre Schmitt,Application Owner,do395,Pierre.Schmitt@clearstream.com
+9E219E9456027D54,AID188,Tax Cluster,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+9E219E9456027D54,AID188,Tax Cluster,Fabian Nelissen,Business Owner,,fabian.nelissen@clearstream.com
+9E219E9456027D54,AID188,Tax Cluster,Ales Privetivy,Application Owner,tb595,ales.privetivy@deutsche-boerse.com
+9E219E9456027D54,AID188,Tax Cluster,Product-Asset Servicing,Product Line,,592D66CD579735CA
+9E219E9456027D54,AID188,Tax Cluster,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+9E219E9456027D54,AID188,Tax Cluster,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+9E219E9456027D54,AID188,Tax Cluster,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+3F233F4C5AE37322,AID407,DEFTAX,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+3F233F4C5AE37322,AID407,DEFTAX,Product-Corporate Systems,Product Line,,592D661C5797326A
+7A287BBA58BD248E,AID279,HYDRA Access Control,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+352942705A6B483D,AID335,Hedgehog,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+352942705A6B483D,AID335,Hedgehog,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+352942705A6B483D,AID335,Hedgehog,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+352942705A6B483D,AID335,Hedgehog,Product-Risk,Product Line,,592D666E579733EA
+352942705A6B483D,AID335,Hedgehog,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+352942705A6B483D,AID335,Hedgehog,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+352938B85A6B466B,AID333,Market Data Hub,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+352938B85A6B466B,AID333,Market Data Hub,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+352938B85A6B466B,AID333,Market Data Hub,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+352938B85A6B466B,AID333,Market Data Hub,Product-Risk,Product Line,,592D666E579733EA
+352938B85A6B466B,AID333,Market Data Hub,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+352938B85A6B466B,AID333,Market Data Hub,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+352935C95A6B4310,AID332,Margin Estimator,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+352935C95A6B4310,AID332,Margin Estimator,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+352935C95A6B4310,AID332,Margin Estimator,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+352935C95A6B4310,AID332,Margin Estimator,Product-Risk,Product Line,,592D666E579733EA
+352935C95A6B4310,AID332,Margin Estimator,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+352941DF5A6B4759,AID334,DAVe,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+352941DF5A6B4759,AID334,DAVe,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+352941DF5A6B4759,AID334,DAVe,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+352941DF5A6B4759,AID334,DAVe,Product-Risk,Product Line,,592D666E579733EA
+352941DF5A6B4759,AID334,DAVe,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+352941DF5A6B4759,AID334,DAVe,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+912A916C590C3EBC,AID293,XIS2,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+912A916C590C3EBC,AID293,XIS2,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+912A916C590C3EBC,AID293,XIS2,Regina Wenz,Application Owner,ql866,Regina.Wenz@deutsche-boerse.com
+912A916C590C3EBC,AID293,XIS2,Product-Data,Product Line,,592D669F5797350A
+912A916C590C3EBC,AID293,XIS2,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+912A916C590C3EBC,AID293,XIS2,STOXX Ltd.,Owning Legal Entity,,4D0A8988590C3E2D
+EE2A04F258595252,AID261,MEGA (EA-Tool),Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+EE2A04F258595252,AID261,MEGA (EA-Tool),Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+EE2A04F258595252,AID261,MEGA (EA-Tool),Product-Corporate Systems,Product Line,,592D661C5797326A
+EE2A04F258595252,AID261,MEGA (EA-Tool),Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+EE2A04F258595252,AID261,MEGA (EA-Tool),Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+EE2A04F258595252,AID261,MEGA (EA-Tool),Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+EE2A04F258595252,AID261,MEGA (EA-Tool),Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+EE2A04F258595252,AID261,MEGA (EA-Tool),Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+EE2A04F258595252,AID261,MEGA (EA-Tool),Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+EE2A04F258595252,AID261,MEGA (EA-Tool),Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+FE2FFE7C5AEA3BC1,AID411,MC& T Connector Modules,Product-Asset Servicing,Product Line,,592D66CD579735CA
+0530060B5A2532B5,AID321,Avanon,Petr Vecerek,Business Owner,do268,Petr.Vecerek@deutsche-boerse.com
+0530060B5A2532B5,AID321,Avanon,Product-Risk,Product Line,,592D666E579733EA
+0530060B5A2532B5,AID321,Avanon,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+0530060B5A2532B5,AID321,Avanon,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+0530060B5A2532B5,AID321,Avanon,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+0530060B5A2532B5,AID321,Avanon,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+0530060B5A2532B5,AID321,Avanon,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+0530060B5A2532B5,AID321,Avanon,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+2543259E5ACB312E,AID391,Qlik,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+2543259E5ACB312E,AID391,Qlik,Marco Steeg,Information Owner,,marco.steeg@deutsche-boerse.com
+2543259E5ACB312E,AID391,Qlik,Product-Corporate Systems,Product Line,,592D661C5797326A
+2543259E5ACB312E,AID391,Qlik,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+2543259E5ACB312E,AID391,Qlik,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+2543259E5ACB312E,AID391,Qlik,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+2543259E5ACB312E,AID391,Qlik,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+2543259E5ACB312E,AID391,Qlik,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+2543259E5ACB312E,AID391,Qlik,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+BA4ABC3C5ACD2D50,AID392,Digital Content Processing,James Freis,Information Owner,,james.freis@deutsche-boerse.com
+BA4ABC3C5ACD2D50,AID392,Digital Content Processing,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+BA4ABC3C5ACD2D50,AID392,Digital Content Processing,Product-Corporate Systems,Product Line,,592D661C5797326A
+BA4ABC3C5ACD2D50,AID392,Digital Content Processing,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+BA4ABC3C5ACD2D50,AID392,Digital Content Processing,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+A44BA57C5AF219AD,AID429,ITSecIAM,Product Information Security,Product Line,,D8AB2E625A946F70
+A44BA57C5AF219AD,AID429,ITSecIAM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+A44BA5B65AF21A0B,AID430,ITSecGovernance,Product Information Security,Product Line,,D8AB2E625A946F70
+364F38DA57926722,AID257,Elements,Georg Groß,Business Owner,,georg.gross@deutsche-boerse.com
+364F38DA57926722,AID257,Elements,Maja Schwob,Application Owner,rg332,Maja.Schwob@deutsche-boerse.com
+60519FE6584A178C,AID259,StoxxDB,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+60519FE6584A178C,AID259,StoxxDB,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+60519FE6584A178C,AID259,StoxxDB,Daniel Zimmermann,Application Owner,,daniel.zimmermann@deutsche-boerse.com
+60519FE6584A178C,AID259,StoxxDB,Product-Data,Product Line,,592D669F5797350A
+60519FE6584A178C,AID259,StoxxDB,STOXX Ltd.,Owning Legal Entity,,4D0A8988590C3E2D
+1B521BAB5AE74543,AID408,MSD,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+1B521BAB5AE74543,AID408,MSD,Product-Corporate Systems,Product Line,,592D661C5797326A
+1B521CD95AE746B7,AID409,Tax Services,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+1B521CD95AE746B7,AID409,Tax Services,Product-Corporate Systems,Product Line,,592D661C5797326A
+D053F02459A73FCA,AID307,audimexEE,Anne-Pascale Malréchauffé,Business Owner,tt912,anne-pascale.malrechauffe@deutsche-boerse.com
+D053F02459A73FCA,AID307,audimexEE,Andreas Cappel,Application Owner,ut517,andreas.cappel@deutsche-boerse.com
+D053F02459A73FCA,AID307,audimexEE,Anne-Pascale Malréchauffé,Information Owner,tt912,anne-pascale.malrechauffe@deutsche-boerse.com
+D053F02459A73FCA,AID307,audimexEE,Product-Corporate Systems,Product Line,,592D661C5797326A
+D053F02459A73FCA,AID307,audimexEE,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+D053F02459A73FCA,AID307,audimexEE,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+D053F02459A73FCA,AID307,audimexEE,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+D053F02459A73FCA,AID307,audimexEE,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+D053F02459A73FCA,AID307,audimexEE,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+D053F02459A73FCA,AID307,audimexEE,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+D053D33359A73913,AID304,SAP Concur,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+D053D33359A73913,AID304,SAP Concur,Product-Corporate Systems,Product Line,,592D661C5797326A
+D053D33359A73913,AID304,SAP Concur,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+D053D33359A73913,AID304,SAP Concur,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+D053D5D459A73DCA,AID306,SAP Success Factors,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+D053D5D459A73DCA,AID306,SAP Success Factors,Product-Corporate Systems,Product Line,,592D661C5797326A
+D053D3DD59A73BBB,AID305,SAP Ariba,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+D053D3DD59A73BBB,AID305,SAP Ariba,Product-Corporate Systems,Product Line,,592D661C5797326A
+D053D3DD59A73BBB,AID305,SAP Ariba,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+245624975B295B56,AID452,Nice Actimize,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+245624975B295B56,AID452,Nice Actimize,Product-Corporate Systems,Product Line,,592D661C5797326A
+4D5A4DFB5A62610D,AID330,TOSCA RPA,Berthold Kracke,Business Owner,,berthold.kracke@clearstream.com
+4D5A4DFB5A62610D,AID330,TOSCA RPA,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+4D5A4DFB5A62610D,AID330,TOSCA RPA,Product-Corporate Systems,Product Line,,592D661C5797326A
+4D5A4DFB5A62610D,AID330,TOSCA RPA,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+6A5A6C63586A6604,AID262,SAP ILM,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+6A5A6C63586A6604,AID262,SAP ILM,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+6A5A6C63586A6604,AID262,SAP ILM,Product-Corporate Systems,Product Line,,592D661C5797326A
+6A5A6C63586A6604,AID262,SAP ILM,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+6A5A6C63586A6604,AID262,SAP ILM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+6A5A6C63586A6604,AID262,SAP ILM,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+6A5A6C63586A6604,AID262,SAP ILM,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+6A5A6C63586A6604,AID262,SAP ILM,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+6A5A6C63586A6604,AID262,SAP ILM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+6A5A6C63586A6604,AID262,SAP ILM,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+7F5F801659F80A09,AID131,Intact,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7F5F801659F80A09,AID131,Intact,Volker Riebesell,Application Owner,,volker.riebesell@deutsche-boerse.com
+7F5F801659F80A09,AID131,Intact,Pierrette Muller,Business Owner,,pierrette.muller@clearstream.com
+7F5F801659F80A09,AID131,Intact,Product-Settlement,Product Line,,592D66FA5797368A
+7F5F801659F80A09,AID131,Intact,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7F5F801659F80A09,AID131,Intact,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+7F5F801659F80A09,AID131,Intact,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+7F5F801659F80A09,AID131,Intact,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+7F5F801659F80A09,AID131,Intact,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+7F5F801659F80A09,AID131,Intact,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+B263B5ED5AF226BA,AID431,SCILA Surveillance (Compliance Trends and Patterns Monitoring for CBL/CBFi/LuxCSD only),Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+B263B5ED5AF226BA,AID431,SCILA Surveillance (Compliance Trends and Patterns Monitoring for CBL/CBFi/LuxCSD only),Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+B263B5ED5AF226BA,AID431,SCILA Surveillance (Compliance Trends and Patterns Monitoring for CBL/CBFi/LuxCSD only),James Freis,Business Owner,,james.freis@deutsche-boerse.com
+B263B5ED5AF226BA,AID431,SCILA Surveillance (Compliance Trends and Patterns Monitoring for CBL/CBFi/LuxCSD only),Product-Corporate Systems,Product Line,,592D661C5797326A
+B263B5ED5AF226BA,AID431,SCILA Surveillance (Compliance Trends and Patterns Monitoring for CBL/CBFi/LuxCSD only),Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+D6651C0A59D64778,AID312,Appway_EDT,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+D6651C0A59D64778,AID312,Appway_EDT,Product-Corporate Systems,Product Line,,592D661C5797326A
+D6651BDD59D644FF,AID311,Appway_CO-M,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+D6651BDD59D644FF,AID311,Appway_CO-M,Berthold Kracke,Information Owner,,berthold.kracke@clearstream.com
+D6651BDD59D644FF,AID311,Appway_CO-M,Product-Corporate Systems,Product Line,,592D661C5797326A
+D6651BDD59D644FF,AID311,Appway_CO-M,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+D6651BDD59D644FF,AID311,Appway_CO-M,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+D6651BDD59D644FF,AID311,Appway_CO-M,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+D6651BDD59D644FF,AID311,Appway_CO-M,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+D6651BDD59D644FF,AID311,Appway_CO-M,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+D6651BDD59D644FF,AID311,Appway_CO-M,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+D6651BDD59D644FF,AID311,Appway_CO-M,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+D26AD4255A931519,AID357,Data Operations Infrastructure,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+D26AD4255A931519,AID357,Data Operations Infrastructure,Vaclav Sulc,Application Owner,,vaclav.sulc@deustche-boerse.com
+D26AD4255A931519,AID357,Data Operations Infrastructure,Product-Data,Product Line,,592D669F5797350A
+FA6BFC02569D5641,AID204,CFN,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFC02569D5641,AID204,CFN,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFC02569D5641,AID204,CFN,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFC02569D5641,AID204,CFN,Product-IFS,Product Line,,592D66E95797362A
+FA6BFC02569D5641,AID204,CFN,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFC02569D5641,AID204,CFN,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFC0E569D574E,AID198,CORONA,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFC0E569D574E,AID198,CORONA,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFC0E569D574E,AID198,CORONA,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFC0E569D574E,AID198,CORONA,Product-IFS,Product Line,,592D66E95797362A
+FA6BFC0E569D574E,AID198,CORONA,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFC0E569D574E,AID198,CORONA,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Product-IFS,Product Line,,592D66E95797362A
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFC1D569D585B,AID199,Datawarehouse (MURES),Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFC2F569D5A75,AID197,WMB,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFC2F569D5A75,AID197,WMB,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFC2F569D5A75,AID197,WMB,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFC2F569D5A75,AID197,WMB,Product-IFS,Product Line,,592D66E95797362A
+FA6BFC2F569D5A75,AID197,WMB,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFC2F569D5A75,AID197,WMB,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFAC4569D4DF1,AID202,CCS,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFAC4569D4DF1,AID202,CCS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFAC4569D4DF1,AID202,CCS,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFAC4569D4DF1,AID202,CCS,Product-IFS,Product Line,,592D66E95797362A
+FA6BFAC4569D4DF1,AID202,CCS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFAC4569D4DF1,AID202,CCS,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFBE5569D52A5,AID201,CDOC,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFBE5569D52A5,AID201,CDOC,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFBE5569D52A5,AID201,CDOC,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFBE5569D52A5,AID201,CDOC,Product-IFS,Product Line,,592D66E95797362A
+FA6BFBE5569D52A5,AID201,CDOC,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFBE5569D52A5,AID201,CDOC,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+FA6BFBF5569D5534,AID203,CDS,Nghia-Hung Lam,Application Owner,xx500,Nghia.Hung.Lam@clearstream.com
+FA6BFBF5569D5534,AID203,CDS,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+FA6BFBF5569D5534,AID203,CDS,Bernard Tancré,Business Owner,,bernard.tancre@clearstream.com
+FA6BFBF5569D5534,AID203,CDS,Product-IFS,Product Line,,592D66E95797362A
+FA6BFBF5569D5534,AID203,CDS,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+FA6BFBF5569D5534,AID203,CDS,Clearstream Services S.A.,Owning Legal Entity,,4D0A889D590C3C89
+9E6F9EBE5B23334D,AID451,Capital Markets Academy Webshop,Deutsche Börse AG,Deutsche Börse AG,,9F98A7295AD917A3
+E071E0DE5AC52DC0,AID389,Crest Adapter,Kai Winkelhagen,Information Owner,,kai.winkelhagen@deutsche-boerse.com
+E071E0DE5AC52DC0,AID389,Crest Adapter,Kai Winkelhagen,Application Owner,,kai.winkelhagen@deutsche-boerse.com
+E071E0DE5AC52DC0,AID389,Crest Adapter,Product-Data,Product Line,,592D669F5797350A
+E071E0DE5AC52DC0,AID389,Crest Adapter,Irish stock exchange,Irish stock exchange,,9F98A70D5AD91774
+E071E0DE5AC52DC0,AID389,Crest Adapter,Deutsche Börse AG,Deutsche Börse AG,,9F98A7295AD917A3
+E071E0DE5AC52DC0,AID389,Crest Adapter,CREST,CREST,,9F98A7315AD917CC
+E071E0DE5AC52DC0,AID389,Crest Adapter,Eurex Clearing,Eurex Clearing,,9F98A73D5AD917F3
+F176314157505B71,AID255,eListing,Renata Bandov,Information Owner,,renata.bandov@deutsche-boerse.com
+F176314157505B71,AID255,eListing,Renata Bandov,Application Owner,,renata.bandov@deutsche-boerse.com
+F176314157505B71,AID255,eListing,Florian Gattung,Business Owner,pl407,florian.gattung@deutsche-boerse.com
+F176314157505B71,AID255,eListing,"Product-Cash IT Pre-IPO, Capital Markets & Innovation",Product Line,,406B416C5AAA50C0
+F176314157505B71,AID255,eListing,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+F17631D957505BCE,AID256,eListingStructuredProducts,Renata Bandov,Application Owner,,renata.bandov@deutsche-boerse.com
+F17631D957505BCE,AID256,eListingStructuredProducts,Renata Bandov,Information Owner,,renata.bandov@deutsche-boerse.com
+F17631D957505BCE,AID256,eListingStructuredProducts,Florian Gattung,Business Owner,pl407,florian.gattung@deutsche-boerse.com
+F17631D957505BCE,AID256,eListingStructuredProducts,"Product-Cash IT Pre-IPO, Capital Markets & Innovation",Product Line,,406B416C5AAA50C0
+F17631D957505BCE,AID256,eListingStructuredProducts,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+C377C3D756E24981,AID229,TEX,Carlo Kölzer,Business Owner,,carlo.koelzer@360t.com
+C377C3D756E24981,AID229,TEX,Christian Schuhegger,Application Owner,,christian.schuhegger@360t.com
+C377C3D756E24981,AID229,TEX,Product-360T,Product Line,,592D668E579734AA
+31784A1256322331,AID218,FD7,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+31784A1256322331,AID218,FD7,Marcel Naas,Business Owner,,marcel.naas@deutsche-boerse.com
+31784A1256322331,AID218,FD7,Florian Seifferer,Information Owner,,Florian.Seifferer@deutsche-boerse.com
+31784A1256322331,AID218,FD7,Product-Derivatives,Product Line,,592D664C5797332A
+31784A1256322331,AID218,FD7,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+CA78CAD95A8E4152,AID356,FAR,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+CA78CAD95A8E4152,AID356,FAR,James Freis,Business Owner,,james.freis@deutsche-boerse.com
+CA78CAD95A8E4152,AID356,FAR,Product-Corporate Systems,Product Line,,592D661C5797326A
+267B27075A1816CE,AID320,Difference Claim Tool,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+267B27075A1816CE,AID320,Difference Claim Tool,Marek Pavlik,Application Owner,sh059,Marek.Pavlik@deutsche-boerse.com
+267B27075A1816CE,AID320,Difference Claim Tool,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+267B27075A1816CE,AID320,Difference Claim Tool,Product-Risk,Product Line,,592D666E579733EA
+267B27075A1816CE,AID320,Difference Claim Tool,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+267B27075A1816CE,AID320,Difference Claim Tool,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+E77FEACF5B0B1F33,AID450,Venture Network Platform,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+E77FEACF5B0B1F33,AID450,Venture Network Platform,Florian Gattung,Application Owner,pl407,florian.gattung@deutsche-boerse.com
+E77FEACF5B0B1F33,AID450,Venture Network Platform,Peter Fricke,Business Owner,,peter.fricke@deutsche-boerse.com
+E77FEACF5B0B1F33,AID450,Venture Network Platform,Deutsche Börse AG,Deutsche Börse AG,,9F98A7295AD917A3
+648266605A60794B,AID329,Clearing Analytics Service,Manfred Matusza,Business Owner,,Manfred.Matusza@eurexclearing.com
+648266605A60794B,AID329,Clearing Analytics Service,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+648266605A60794B,AID329,Clearing Analytics Service,Joerg Heroth,Application Owner,eb360,joerg.heroth@deutsche-boerse.com
+648266605A60794B,AID329,Clearing Analytics Service,Product-Clearing,Product Line,,592D665E5797338A
+648266605A60794B,AID329,Clearing Analytics Service,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+648266605A60794B,AID329,Clearing Analytics Service,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+648266605A60794B,AID329,Clearing Analytics Service,Eurex Clearing AG,Owning Legal Entity,,4D0A88D7590C3CDD
+69876A4F598D25E5,AID301,ECP - StarCompliance,James Freis,Business Owner,,james.freis@deutsche-boerse.com
+69876A4F598D25E5,AID301,ECP - StarCompliance,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+69876A4F598D25E5,AID301,ECP - StarCompliance,Product-Corporate Systems,Product Line,,592D661C5797326A
+69876A4F598D25E5,AID301,ECP - StarCompliance,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+69876A4F598D25E5,AID301,ECP - StarCompliance,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+69876A78598D263B,AID300,Appway_RegOut,Carsten Hoeschel,Business Owner,,carsten.hoeschel@clearstream.com
+69876A78598D263B,AID300,Appway_RegOut,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+69876A78598D263B,AID300,Appway_RegOut,Carsten Hoeschel,Information Owner,,carsten.hoeschel@clearstream.com
+69876A78598D263B,AID300,Appway_RegOut,Product-Corporate Systems,Product Line,,592D661C5797326A
+69876A78598D263B,AID300,Appway_RegOut,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+69876A78598D263B,AID300,Appway_RegOut,Using Legal Entity,Using Legal Entity,,4D0A7D9F590C38FA
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+69876A78598D263B,AID300,Appway_RegOut,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+69876A78598D263B,AID300,Appway_RegOut,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+69876A78598D263B,AID300,Appway_RegOut,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+69876A78598D263B,AID300,Appway_RegOut,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+69876A78598D263B,AID300,Appway_RegOut,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+69876A78598D263B,AID300,Appway_RegOut,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+69876A78598D263B,AID300,Appway_RegOut,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+69876A78598D263B,AID300,Appway_RegOut,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+69876A78598D263B,AID300,Appway_RegOut,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+69876A78598D263B,AID300,Appway_RegOut,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+69876A78598D263B,AID300,Appway_RegOut,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Banking AG,Owning Legal Entity,,4D0A87F0590C3BB5
+69876A78598D263B,AID300,Appway_RegOut,Clearstream Banking S.A.,Owning Legal Entity,,4D0A8809590C3BE1
+69876A78598D263B,AID300,Appway_RegOut,Eurex Clearing AG,Owning Legal Entity,,4D0A88D7590C3CDD
+69876A78598D263B,AID300,Appway_RegOut,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+898889D15AD9399A,AID402,ITSecInfrastructure,Product Information Security,Product Line,,D8AB2E625A946F70
+898889D15AD9399A,AID402,ITSecInfrastructure,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+898889D15AD9399A,AID402,ITSecInfrastructure,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+1E8F25145AEC65F2,AID416,Exchange,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F25145AEC65F2,AID416,Exchange,Thomas Reich,Application Owner,eh724,thomas.reich@deutsche-boerse.com
+1E8F25145AEC65F2,AID416,Exchange,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F25145AEC65F2,AID416,Exchange,Product-Digital Workplace,Product Line,,A878A91259F13FAD
+1E8F29295AEC68DC,AID417,SharePoint,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F29295AEC68DC,AID417,SharePoint,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F29295AEC68DC,AID417,SharePoint,Thomas Reich,Application Owner,eh724,thomas.reich@deutsche-boerse.com
+1E8F29295AEC68DC,AID417,SharePoint,Product-Digital Workplace,Product Line,,A878A91259F13FAD
+1E8F29295AEC68DC,AID417,SharePoint,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+1E8F1FEF5AEC646B,AID415,Active Directory,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F1FEF5AEC646B,AID415,Active Directory,Thomas Reich,Application Owner,eh724,thomas.reich@deutsche-boerse.com
+1E8F1FEF5AEC646B,AID415,Active Directory,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+1E8F1FEF5AEC646B,AID415,Active Directory,Product-Digital Workplace,Product Line,,A878A91259F13FAD
+0A900B1C5A5F0303,AID328,FQPM,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+0A900B1C5A5F0303,AID328,FQPM,Product-Clearing,Product Line,,592D665E5797338A
+0A900B1C5A5F0303,AID328,FQPM,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+0A900B1C5A5F0303,AID328,FQPM,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+0A900B1C5A5F0303,AID328,FQPM,Eurex Clearing AG,Owning Legal Entity,,4D0A88D7590C3CDD
+E690F34C58B71F1D,AID278,RICA Market Data,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+E690F34C58B71F1D,AID278,RICA Market Data,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+E690F34C58B71F1D,AID278,RICA Market Data,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+E690F34C58B71F1D,AID278,RICA Market Data,Product-Risk,Product Line,,592D666E579733EA
+E690F34C58B71F1D,AID278,RICA Market Data,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+E690F34C58B71F1D,AID278,RICA Market Data,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+E690F07258B71E28,AID277,RICA Hedging,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+E690F07258B71E28,AID277,RICA Hedging,Tomas Chudy,Application Owner,,Tomas.Chudy@deutsche-boerse.com
+E690F07258B71E28,AID277,RICA Hedging,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+E690F07258B71E28,AID277,RICA Hedging,Product-Risk,Product Line,,592D666E579733EA
+E690F07258B71E28,AID277,RICA Hedging,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+E690F07258B71E28,AID277,RICA Hedging,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+8F9697465A371DF7,AID322,ICOS2,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+8F9697465A371DF7,AID322,ICOS2,Daniel Zimmermann,Application Owner,,daniel.zimmermann@deutsche-boerse.com
+8F9697465A371DF7,AID322,ICOS2,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+8F9697465A371DF7,AID322,ICOS2,Product-Data,Product Line,,592D669F5797350A
+8F9697465A371DF7,AID322,ICOS2,STOXX Ltd.,Owning Legal Entity,,4D0A8988590C3E2D
+639C641858C63C5C,AID281,ISE OBOE,Amal Thalakkara,Application Owner,co598,amal.thalakkara@deutsche-boerse.com
+639C641858C63C5C,AID281,ISE OBOE,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+639C641858C63C5C,AID281,ISE OBOE,Holger Wohlenberg,Business Owner,,holger.wohlenberg@deutsche-boerse.com
+639C641858C63C5C,AID281,ISE OBOE,Product-Data,Product Line,,592D669F5797350A
+07A108315AEB6D78,AID412,Lecare,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+07A108315AEB6D78,AID412,Lecare,Product-Corporate Systems,Product Line,,592D661C5797326A
+07A108FC5AEB6EE2,AID413,JIRA,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+07A108FC5AEB6EE2,AID413,JIRA,Product-Corporate Systems,Product Line,,592D661C5797326A
+07A108FC5AEB6EE2,AID413,JIRA,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+3AA43CEB58FF55D1,AID005,DWH EUREX,Marek Pavlik,Application Owner,sh059,Marek.Pavlik@deutsche-boerse.com
+3AA43CEB58FF55D1,AID005,DWH EUREX,Thomas Laux,Business Owner,,Thomas.Laux@deutsche-boerse.com
+3AA43CEB58FF55D1,AID005,DWH EUREX,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+3AA43CEB58FF55D1,AID005,DWH EUREX,Product-Risk,Product Line,,592D666E579733EA
+3AA43CEB58FF55D1,AID005,DWH EUREX,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+3AA43CEB58FF55D1,AID005,DWH EUREX,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+B7A5B8E85AE16A86,AID406,Digital Business Platform,Deutsche Börse AG,Deutsche Börse AG,,9F98A7295AD917A3
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS",Andrea Klawik,Application Owner,,andrea.klawik@deutsche-boerse.com
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS",Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS",Renata Bandov,Business Owner,,renata.bandov@deutsche-boerse.com
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS","Product-Cash IT Pre-IPO, Capital Markets & Innovation",Product Line,,406B416C5AAA50C0
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS",Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+D8ADDF075A3809CF,AID325,"Exchange Reporting System, ERS",Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+09B01C0156718679,AID211,SAP SRM,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+09B01C0156718679,AID211,SAP SRM,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+09B01C0156718679,AID211,SAP SRM,Product-Corporate Systems,Product Line,,592D661C5797326A
+09B01C0156718679,AID211,SAP SRM,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+09B01C0156718679,AID211,SAP SRM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+09B01C0156718679,AID211,SAP SRM,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+09B01C0156718679,AID211,SAP SRM,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+09B01C0156718679,AID211,SAP SRM,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+09B01C0156718679,AID211,SAP SRM,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+09B01C0156718679,AID211,SAP SRM,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+09B01C0156718679,AID211,SAP SRM,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+09B01C0156718679,AID211,SAP SRM,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+09B01C0156718679,AID211,SAP SRM,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+09B01C0156718679,AID211,SAP SRM,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+09B01C0156718679,AID211,SAP SRM,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+09B01C0156718679,AID211,SAP SRM,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+09B01C0156718679,AID211,SAP SRM,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+09B01C0156718679,AID211,SAP SRM,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+09B01C0156718679,AID211,SAP SRM,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+09B01C0156718679,AID211,SAP SRM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+09B01C0156718679,AID211,SAP SRM,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+09B02C1F5671989D,AID226,Xpider,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+09B02C1F5671989D,AID226,Xpider,Holger Wohlenberg,Business Owner,,holger.wohlenberg@deutsche-boerse.com
+09B02C1F5671989D,AID226,Xpider,Product-Data,Product Line,,592D669F5797350A
+09B02C1F5671989D,AID226,Xpider,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+09B0223D56718B68,AID215,YouNovate,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+09B0223D56718B68,AID215,YouNovate,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+09B0223D56718B68,AID215,YouNovate,Product-Corporate Systems,Product Line,,592D661C5797326A
+09B01EB0567189A2,AID214,SAP CLM,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+09B01EB0567189A2,AID214,SAP CLM,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+09B01EB0567189A2,AID214,SAP CLM,Product-Corporate Systems,Product Line,,592D661C5797326A
+09B01EB0567189A2,AID214,SAP CLM,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+09B01EB0567189A2,AID214,SAP CLM,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+09B01EB0567189A2,AID214,SAP CLM,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+09B01EB0567189A2,AID214,SAP CLM,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+09B01EB0567189A2,AID214,SAP CLM,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+09B01EB0567189A2,AID214,SAP CLM,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+09B01EB0567189A2,AID214,SAP CLM,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+09B01EB0567189A2,AID214,SAP CLM,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+09B01EB0567189A2,AID214,SAP CLM,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+09B01EB0567189A2,AID214,SAP CLM,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+09B01EB0567189A2,AID214,SAP CLM,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+09B01EB0567189A2,AID214,SAP CLM,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+09B01EB0567189A2,AID214,SAP CLM,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+09B01EB0567189A2,AID214,SAP CLM,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+09B01EB0567189A2,AID214,SAP CLM,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+09B01EB0567189A2,AID214,SAP CLM,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+09B01EB0567189A2,AID214,SAP CLM,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+09B01EB0567189A2,AID214,SAP CLM,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+09B01EB0567189A2,AID214,SAP CLM,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+09B01EB0567189A2,AID214,SAP CLM,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+09B025DE56718D4D,AID225,Lotus Notes,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+09B025DE56718D4D,AID225,Lotus Notes,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+8AB48C535995203F,AID302,DMP Auction Tool,Marcus Addison,Business Owner,Marcus Addison,marcus.addison@eurexclearing.com
+8AB48C535995203F,AID302,DMP Auction Tool,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+8AB48C535995203F,AID302,DMP Auction Tool,Jörg Schätzlein,Application Owner,lz821,Joerg.schaetzlein@deutsche-boerse.com
+8AB48C535995203F,AID302,DMP Auction Tool,Product-Clearing,Product Line,,592D665E5797338A
+8AB48C535995203F,AID302,DMP Auction Tool,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+8AB48C535995203F,AID302,DMP Auction Tool,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+8AB48C535995203F,AID302,DMP Auction Tool,Eurex Clearing AG,Owning Legal Entity,,4D0A88D7590C3CDD
+ACB6AD4E58D201CC,AID292,M7 XBID,Jens Rick,Information Owner,,jens.rick@deutsche-boerse.com
+ACB6AD4E58D201CC,AID292,M7 XBID,Jens Rick,Business Owner,,jens.rick@deutsche-boerse.com
+ACB6AD4E58D201CC,AID292,M7 XBID,Stefanie Naeder,Business Owner,,Stefanie.Naeder@deutsche-boerse.com
+ACB6AD4E58D201CC,AID292,M7 XBID,Jens Hein,Application Owner,lp320,jens.hein@deutsche-boerse.com
+ACB6AD4E58D201CC,AID292,M7 XBID,Product-Energy,Product Line,,592D667C5797344A
+ACB6AD4E58D201CC,AID292,M7 XBID,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+ACB6AD4E58D201CC,AID292,M7 XBID,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+90B7930759AE3311,AID308,RCAdmission,Manfred Matusza,Information Owner,,Manfred.Matusza@eurexclearing.com
+90B7930759AE3311,AID308,RCAdmission,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+90B7930759AE3311,AID308,RCAdmission,Constanze Muller,Business Owner,,Constanze.Mueller@deutsche-boerse.com
+90B7930759AE3311,AID308,RCAdmission,"Product-Cash IT Pre-IPO, Capital Markets & Innovation",Product Line,,406B416C5AAA50C0
+90B7930759AE3311,AID308,RCAdmission,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+90B7930759AE3311,AID308,RCAdmission,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+90B7930759AE3311,AID308,RCAdmission,Eurex Frankfurt AG,Owning Legal Entity,,4D0A890B590C3D31
+99B89E9D57351394,AID241,deutsche-boerse.com,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Jörg Schätzlein,Application Owner,lz821,Joerg.schaetzlein@deutsche-boerse.com
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Jens Janka,Business Owner,,jens.janka@eurexclearing.com
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Product-Clearing,Product Line,,592D665E5797338A
+99B89ED9573513F1,AID242,CCP Buy-In Tool,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+99B89ED9573513F1,AID242,CCP Buy-In Tool,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+DEBCDF1E5B07455E,AID449,SID,Product-Data,Product Line,,592D669F5797350A
+62C363235AEC7996,AID418,Alfresco,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+62C363235AEC7996,AID418,Alfresco,Product-Corporate Systems,Product Line,,592D661C5797326A
+62C363235AEC7996,AID418,Alfresco,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+62C363B45AEC7AD5,AID419,WIKI,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+62C363B45AEC7AD5,AID419,WIKI,Product-Corporate Systems,Product Line,,592D661C5797326A
+5ECE5F3856B30F1A,AID228,EK-Neu,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+5ECE5F3856B30F1A,AID228,EK-Neu,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+5ECE5F3856B30F1A,AID228,EK-Neu,Product-Corporate Systems,Product Line,,592D661C5797326A
+5ECE5F3856B30F1A,AID228,EK-Neu,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+7ECECC2D573172C7,AID240,SIRe,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+7ECECC2D573172C7,AID240,SIRe,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+7ECECC2D573172C7,AID240,SIRe,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+7ECECC2D573172C7,AID240,SIRe,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+7ECEAA5257316D21,AID239,RITA,Mathias Papenfuß,Information Owner,,mathias.papenfuss@clearstream.com
+7ECEAA5257316D21,AID239,RITA,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+7ECEAA5257316D21,AID239,RITA,Gloria Pfaue,Information Owner,,gloria.pfaue@eurex-bonds.com
+7ECEAA5257316D21,AID239,RITA,Frank Gast,Information Owner,,Frank.Gast@deutsche-boerse.com
+7ECEAA5257316D21,AID239,RITA,Petr Vecerek,Business Owner,do268,Petr.Vecerek@deutsche-boerse.com
+7ECEAA5257316D21,AID239,RITA,Oliver Engels,Information Owner,,
+7ECEAA5257316D21,AID239,RITA,Pavel Sasek,Application Owner,gm566,pavel.sasek@deutsche-boerse.com
+7ECEAA5257316D21,AID239,RITA,Product-Risk,Product Line,,592D666E579733EA
+7ECEAA5257316D21,AID239,RITA,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+7ECEAA5257316D21,AID239,RITA,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+7ECEAA5257316D21,AID239,RITA,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+7ECEAA5257316D21,AID239,RITA,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+7ECEAA5257316D21,AID239,RITA,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+7ECEAA5257316D21,AID239,RITA,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+7ECEAA5257316D21,AID239,RITA,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+7ECEAA5257316D21,AID239,RITA,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+7ECEAA5257316D21,AID239,RITA,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+7ECE838857316B98,AID238,Trading Operations & Monitoring tools,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+7ECE838857316B98,AID238,Trading Operations & Monitoring tools,Wolfgang Eholzer,Business Owner,,Wolfgang.Eholzer@eurexchange.com
+7ECE838857316B98,AID238,Trading Operations & Monitoring tools,Product-Derivatives,Product Line,,592D664C5797332A
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Jürgen Elsner,Business Owner,cm830,juergen.elsner@deutsche-boerse.com
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Manfred Matusza,Information Owner,,Manfred.Matusza@eurexclearing.com
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Product-Corporate Systems,Product Line,,592D661C5797326A
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+99D19A255A9E3D42,AID119,StatistiX Data Lake,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Kai Winkelhagen,Application Owner,,kai.winkelhagen@deutsche-boerse.com
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Georg Groß,Business Owner,,georg.gross@deutsche-boerse.com
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Product-Data,Product Line,,592D669F5797350A
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+D1D7D3C159114C01,AID295,RRH Transaction Reporting,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Konrad Sippel,Information Owner,,konrad.sippel@deutsche-boerse.com
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Kai Winkelhagen,Application Owner,,kai.winkelhagen@deutsche-boerse.com
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Georg Groß,Business Owner,,georg.gross@deutsche-boerse.com
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Product-Data,Product Line,,592D669F5797350A
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+D1D7D2EB59114B26,AID294,RRH OTC Trade Reporting,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F5DA131E591B38AB,AID296,CADIS,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+F5DA131E591B38AB,AID296,CADIS,Daniel Zimmermann,Application Owner,,daniel.zimmermann@deutsche-boerse.com
+F5DA131E591B38AB,AID296,CADIS,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+F5DA131E591B38AB,AID296,CADIS,Product-Data,Product Line,,592D669F5797350A
+F5DA131E591B38AB,AID296,CADIS,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F5DA1370591B3919,AID297,ICOS,Matteo Andretto,Business Owner,,matteo.andreetto@stoxx.com
+F5DA1370591B3919,AID297,ICOS,Steffen Hermanns,Information Owner,,steffen.hermanns@stoxx.com
+F5DA1370591B3919,AID297,ICOS,Daniel Zimmermann,Application Owner,,daniel.zimmermann@deutsche-boerse.com
+F5DA1370591B3919,AID297,ICOS,Product-Data,Product Line,,592D669F5797350A
+F5DA1370591B3919,AID297,ICOS,STOXX Ltd.,Owning Legal Entity,,4D0A8988590C3E2D
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Ingrid Vogel,Information Owner,,ingrid.vogel@deutsche-boerse.com
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Frank Hoba,Business Owner,,frank.hoba@eurexchange.com
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Product-Derivatives,Product Line,,592D664C5797332A
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+A2DBACAD5AB8179C,AID365,Market Supervision Toolset - major group,Eurex Frankfurt AG,Owning Legal Entity,,4D0A890B590C3D31
+7ADE7E51599E412F,AID303,Virtual Data Room,Thomas Wahl,Information Owner,ay729,Thomas.Wahl@eurexclearing.com
+7ADE7E51599E412F,AID303,Virtual Data Room,Manfred Matusza,Application Owner,,Manfred.Matusza@eurexclearing.com
+7ADE7E51599E412F,AID303,Virtual Data Room,Manfred Matusza,Business Owner,,Manfred.Matusza@eurexclearing.com
+7ADE7E51599E412F,AID303,Virtual Data Room,Product-Clearing,Product Line,,592D665E5797338A
+7ADE7E51599E412F,AID303,Virtual Data Room,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+7ADE7E51599E412F,AID303,Virtual Data Room,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+7ADE7E51599E412F,AID303,Virtual Data Room,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+63E166C959B2302B,AID309,Xetra-PND,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+63E166C959B2302B,AID309,Xetra-PND,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+63E166C959B2302B,AID309,Xetra-PND,Martin Reck,Business Owner,,martin.reck@deutsche-boerse.com
+63E166C959B2302B,AID309,Xetra-PND,Product-Cash,Product Line,,592D663B579732CA
+63E166C959B2302B,AID309,Xetra-PND,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+63E166C959B2302B,AID309,Xetra-PND,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+22E623225AEB1E8C,AID414,Google Cloud Platform,Product-IT Infrastructure,Product Line,,D8AB2EEF5A946FE2
+45E7A1665A4B50E4,AID324,AHR,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+45E7A1665A4B50E4,AID324,AHR,James Freis,Business Owner,,james.freis@deutsche-boerse.com
+45E7A1665A4B50E4,AID324,AHR,Product-Corporate Systems,Product Line,,592D661C5797326A
+45E7A1665A4B50E4,AID324,AHR,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+45E7A1665A4B50E4,AID324,AHR,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+45E7A1665A4B50E4,AID324,AHR,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+45E7A1665A4B50E4,AID324,AHR,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+45E7A1665A4B50E4,AID324,AHR,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+45E7A1665A4B50E4,AID324,AHR,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+45E7A1665A4B50E4,AID324,AHR,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+45E7A1665A4B50E4,AID324,AHR,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+45E7A1665A4B50E4,AID324,AHR,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+45E7A1665A4B50E4,AID324,AHR,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+45E7A1665A4B50E4,AID324,AHR,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+45E7A1665A4B50E4,AID324,AHR,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+45E7A1665A4B50E4,AID324,AHR,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+45E7A1665A4B50E4,AID324,AHR,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+45E7A1665A4B50E4,AID324,AHR,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+79E7AC0758C64BDB,AID291,Sonar,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7AB2458C64A37,AID286,Jenkins,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7AAAB58C648E5,AID282,Ansible,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7ABAF58C64A8B,AID287,Jetbrains Licence Server,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7ABC758C64ADF,AID288,Software Change Management,Jürgen Elsner,Application Owner,cm830,juergen.elsner@deutsche-boerse.com
+79E7ABC758C64ADF,AID288,Software Change Management,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7ABC758C64ADF,AID288,Software Change Management,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+79E7ABC758C64ADF,AID288,Software Change Management,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+79E7ABC758C64ADF,AID288,Software Change Management,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+79E7AAD358C6493B,AID283,Artifactory,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7ABDC58C64B33,AID289,Puppet,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7AAED58C6498F,AID284,GitHub,Marco Steeg,Business Owner,,marco.steeg@deutsche-boerse.com
+79E7AAED58C6498F,AID284,GitHub,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+79E7AAED58C6498F,AID284,GitHub,Product-Derivatives,Product Line,,592D664C5797332A
+79E7AAED58C6498F,AID284,GitHub,ECAG_Application_Portfolio,Product Line,,2CAC47CB59F34E57
+79E7AAED58C6498F,AID284,GitHub,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+79E7AAED58C6498F,AID284,GitHub,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+92E79414562F5669,AID061,M7 Auction,Jens Rick,Business Owner,,jens.rick@deutsche-boerse.com
+92E79414562F5669,AID061,M7 Auction,Vladimir Klimes,Application Owner,ek615,vladimir.klimes@deutsche-boerse.com
+92E79414562F5669,AID061,M7 Auction,Stefanie Naeder,Business Owner,,Stefanie.Naeder@deutsche-boerse.com
+92E79414562F5669,AID061,M7 Auction,Ulugbek Masaidov,Application Owner,tt016,ulugbek.masaidov@deutsche-boerse.com
+92E79414562F5669,AID061,M7 Auction,Vanya Ataya,Application Owner,,Vanya.Ataya@deutsche-boerse.com
+92E79414562F5669,AID061,M7 Auction,Product-Energy,Product Line,,592D667C5797344A
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Thomas Reich,Application Owner,eh724,thomas.reich@deutsche-boerse.com
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Product-Digital Workplace,Product Line,,A878A91259F13FAD
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+70E871AF5AC475B6,AID388,Digital Workplace Desktop Applications,RegisTR,RegisTR,,7E7BAE635A9E385F
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Ulrich Meyer,Application Owner,,ulrich.meyer@deutsche-boerse.com
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Miryusup Abdullaev,Business Owner,,miryusup.abdullaev@deutsche-boerse.com
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Bernd Eschenbrücher,Information Owner,,bernd.eschenbruecher@deutsche-boerse.com
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Product-Cash,Product Line,,592D663B579732CA
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+08EB12A15ABA4AAB,AID367,Market Supervision Toolset Cash,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+C5F2E65A5AB42955,AID364,T7-Nodal,Wolfgang Eholzer,Application Owner,,Wolfgang.Eholzer@eurexchange.com
+C5F2E65A5AB42955,AID364,T7-Nodal,Demeteri Karousos,Information Owner,,karousos@nodalexchange.com
+C5F2E65A5AB42955,AID364,T7-Nodal,Product-Derivatives,Product Line,,592D664C5797332A
+C5F2E65A5AB42955,AID364,T7-Nodal,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F1F305565A0C51C7,AID319,Sametime Advanced,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+F1F305565A0C51C7,AID319,Sametime Advanced,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+F1F305565A0C51C7,AID319,Sametime Advanced,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Bonds GmbH,Using Legal Entity,,4D0A8551590C3ADF
+F1F305565A0C51C7,AID319,Sametime Advanced,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+F1F305565A0C51C7,AID319,Sametime Advanced,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+F1F305565A0C51C7,AID319,Sametime Advanced,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+F1F305565A0C51C7,AID319,Sametime Advanced,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+F1F305565A0C51C7,AID319,Sametime Advanced,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Francois Leveling,Application Owner,lh995,francois.leveling@clearstream.com
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+F1F3048B5A0C4E73,AID316,(DEL) Skype for Business,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Philipp Johne,Information Owner,kc626,Philipp.Johne@deutsche-boerse.com
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Thomas Reich,Application Owner,eh724,thomas.reich@deutsche-boerse.com
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Philipp Johne,Business Owner,kc626,Philipp.Johne@deutsche-boerse.com
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Finnovation S.A.,Using Legal Entity,,38253C7C5925468F
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream Banking AG,Using Legal Entity,,4D0A83A8590C3910
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream Banking S.A.,Using Legal Entity,,4D0A83C1590C393A
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream Banking Singapore Branch Ltd.,Using Legal Entity,,4D0A83E7590C3964
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream Holding AG,Using Legal Entity,,4D0A8407590C398E
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream International S.A.,Using Legal Entity,,4D0A8436590C39B8
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Clearstream Services S.A.,Using Legal Entity,,4D0A844C590C39E2
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Frankfurter Wertpapier Börse (FWB),Using Legal Entity,,4D0A8471590C3A0C
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Eurex Clearing AG,Using Legal Entity,,4D0A848C590C3A36
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Eurex Clearing Asia LTD,Using Legal Entity,,4D0A850D590C3A61
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Eurex Frankfurt AG,Using Legal Entity,,4D0A8524590C3A8B
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Eurex Zürich AG,Using Legal Entity,,4D0A8536590C3AB5
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Eurex Repo GmbH,Using Legal Entity,,4D0A8562590C3B09
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,LuxCSD S.A.,Using Legal Entity,,4D0A8585590C3B33
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,STOXX Ltd.,Using Legal Entity,,4D0A85B3590C3B87
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Deutsche Börse AG,Using Legal Entity,,4D0A8D84590C3E62
+F1F304CC5A0C4ECA,AID317,(DEL) SharePoint Designer,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
+06F70F275A9904F6,AID358,T7-CLOB,Helge Harren,Application Owner,bp404,Helge.Harren@deutsche-boerse.com
+06F70F275A9904F6,AID358,T7-CLOB,Vikram Srinivasan,Business Owner,,vikram.srinivasan@360t.com
+06F70F275A9904F6,AID358,T7-CLOB,Product-360T,Product Line,,592D668E579734AA
+06F70F275A9904F6,AID358,T7-CLOB,360 Treasury Systems AG,Using Legal Entity,,4D0A859F590C3B5D
+06F70F275A9904F6,AID358,T7-CLOB,Deutsche Börse AG,Owning Legal Entity,,4D0A8D9E590C3E8E
