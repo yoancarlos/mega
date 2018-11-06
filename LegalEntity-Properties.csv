@@ -1,0 +1,20 @@
+Name,MetaAttribute Type,Mandatory,MetaAttribute Length,MetaAttribute Format / Cardinality for Linked Objects,Default Value,Remark
+Generic Local name,String,yes,274,Standard,,
+Technology Code,String,yes,63,Standard,,"immutable unique value generated on Application creation, format of ""TID<nnn>"""
+Company Standard,String,yes,4,Enumeration,Not Assigned,
+DBAG_Open Source,Boolean,yes,63,Standard,,perhaps deprecated now
+Vendor,LinkedObject(s),yes,n/a,0..1,,link/key to Vendor objects/table
+Application,LinkedObject(s),yes,n/a,n,,link/key to Application objects/table
+DBAG-Message Flow,LinkedObject(s),yes,n/a,n,,link/key to Interface objects/table
+Number of using applications,Long,no,,Standard,,Computed Value
+Release Date,AbsoluteDateTime64,no,,Standard,,
+End of Support,AbsoluteDateTime64,no,,Standard,,
+End of Extended Support,AbsoluteDateTime64,no,,Standard,,
+Converted Name Version,Short,no,,Enumeration (Opened),,
+Support Alert,String,no,63,Enumeration,,
+Workflow Status,String,no,10,Enumeration,,
+Workflow Status (Financial),String,no,63,Enumeration,,
+_Type,LinkedObject(s),no,,,,
+Parent Folder,LinkedObject(s),no,,,,
+DBAG Message Flow (format),LinkedObject(s),no,,,,
+DBAG Message flow (protocol),LinkedObject(s),no,,,,

@@ -1,0 +1,20 @@
+Name,MetaAttribute Type,Mandatory,MetaAttribute Length,MetaAttribute Format / Cardinality for Linked Objects,Default Value,Remark
+Comment,VarChar,yes,4,Standard,,
+Org-Unit Type,String,yes,4,Enumeration,,
+DBG-Count of App Org,String,yes,63,Standard,,
+DBG-Count of sub-orgUnit,String,yes,63,Standard,,
+Generic Local name,String,yes,274,Standard,,
+Vendor Code,String,yes,63,Standard,,simple number
+Company Standard,String,yes,4,Enumeration,,perhaps deprecated
+Number of provided Technologies,Long,yes,,Standard,,
+Number of using applications\Vendor,Long,yes,,Standard,,
+Provided Technology,LinkedObject(s),yes,n/a,n,,link/key to Technology objects/table
+Interface to Application,LinkedObject(s),yes,n/a,n,,link/key to Interface objects/table
+Internal/External,String,no,4,Enumeration,,
+Cardinal,String,no,12,Standard,,
+Comment Body,VarChar,no,4,Standard,,
+Log,VarChar,no,4,Standard,,
+Converted Name Version,Short,no,,Enumeration (Opened),,
+E-mail,String,no,1024,Standard,,
+Org-Unit Status,String,no,4,Enumeration,,
+Number of used Technologies,Long,no,,Standard,,

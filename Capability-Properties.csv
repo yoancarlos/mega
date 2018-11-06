@@ -1,0 +1,7 @@
+Name,MetaAttribute Type,Mandatory,MetaAttribute Length,MetaAttribute Format / Cardinality for Linked Objects,Default Value,Remark
+Comment,VarChar,yes,4,Standard,,
+Converted Name Version,Short,yes,,Enumeration (Opened),,
+Generic Local name,String,yes,274,Standard,,
+Functional Scope of,LinkedObject(s),yes,n/a,n,,link/key to Application objects/table
+Log,VarChar,no,4,Standard,,
+Comment Body,VarChar,no,4,Standard,,
